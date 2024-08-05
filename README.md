@@ -4,7 +4,7 @@ This Python script leverages the power of Google's Generative AI to automate the
 
 ## Features
 
-- **AI-Powered Renaming:** Uses Google Generative AI (`Gemini-1.5-Flash`) to analyze image content and suggest appropriate filenames.
+- **AI-Powered Renaming:** Uses Google Generative AI (`Gemini-1.5-Flash` - you can change this) to analyze image content and suggest appropriate filenames.
 - **Customization:** Easily tailor the filename format, and the initial chat instructions for the model to fit your preferences.
 - **Organized:** Moves renamed images into a subdirectory (`AutoNamed`) for better organization.
 - **Pause/Resume:** Use the SPACEBAR to pause and resume the renaming process.
