@@ -48,7 +48,7 @@ Open the script and replace the following:
 > 
 > 2. Also you can customise the per image file prompt here: `response = chat_session.send_message()` 
 
-## Configuration
+## Configuration (Optional)
 
 - **Model Parameters:** Adjust the `generation\config settings` (temperature, top\p, top\k, etc.) to influence the AI's suggestions. 
 - **Safety Settings:** Enable/disable safety filters in the `safety\settings`.
